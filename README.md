@@ -3,8 +3,7 @@
 # Background
 
  In this project as a part of a  trip planning to Honalulu Hawaii,  climate analysis about the area has been done using the various steps . 
- For doing this a Python Pandas file has been created and link is  
- 
+ For doing this a Python Pandas file has been created and link is  https://github.com/MeerKar/SQLite/blob/main/climate_starter.ipynb 
  These tasks has been divided into two parts.
 
 # Part 1: Analyze and Explore the Climate Data
