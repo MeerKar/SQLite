@@ -64,7 +64,8 @@ A query that calculates the lowest, highest, and average temperatures that filte
  # Part 2: Design Climate App
  
  
-Now that completed the initial analysis, a Flask APIis designed  based on the queries that  just developed. 
+Now that completed the initial analysis, a Flask APIis designed  based on the queries that  just developed. THe link for the following is https://github.com/MeerKar/SQLite/blob/main/app.py
+
 To do so, Flask is used to create  routes as follows:
 
 /
